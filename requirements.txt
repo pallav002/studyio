@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+motor
+boto3
+python-jose[cryptography]
+bcrypt
+python-multipart
+pydantic-settings
+openai
+jinja2
+pytest
+pytest-asyncio
+httpx
+python-dotenv
+email-validator

@@ -1,0 +1,4 @@
+Sending generation request...
+Status: 403
+Time: 0.25s
+Response: {"detail":"TRIAL_LIMIT_EXCEEDED"}
